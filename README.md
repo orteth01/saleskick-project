@@ -1,12 +1,12 @@
 # Overview
 
-This is Teddy Ortega's submission for the saleskick technical exercise.
-
 I decided to try to create a text analysis app with a simple dashboard for reviewing results.
 
-# Quick demo
+## Quick demo
 
-<video src="./demo.mov" />
+see [demo.mov](https://github.com/orteth01/saleskick-project/blob/main/demo.mov) for a demo video
+
+## Pages
 
 ### `/`
 
@@ -33,7 +33,7 @@ with more time I would:
 
 powered by [`sv`](https://github.com/sveltejs/cli).
 
-## Local development
+# Local development
 
 create a new project in firebase and set it up for a web app.
 
